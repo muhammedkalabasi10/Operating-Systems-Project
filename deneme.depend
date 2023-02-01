@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672674514 source:/home/kalabasi/Desktop/deneme/deneme/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
